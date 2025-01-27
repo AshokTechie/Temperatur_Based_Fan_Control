@@ -1,4 +1,13 @@
 # Temperatur_Based_Fan_Control
+
+
+https://www.tinkercad.com/things/cGDQEZ79yh1-magnificent-fyyran-snicket?sharecode=ZduSj3VRiqwB0KlDq_qEvHirLPMvDMXMiErmi55erl8
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/65c80c01-9edb-470c-a558-2f7c40607c3c)
 
 #include <EEPROM.h>
